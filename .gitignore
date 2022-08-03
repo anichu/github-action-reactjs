@@ -11,6 +11,9 @@
 # production
 /build
 
+/actions-runner
+
+
 # misc
 .DS_Store
 .env.local

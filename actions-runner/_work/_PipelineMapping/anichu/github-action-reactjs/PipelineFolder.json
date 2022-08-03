@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "anichu/github-action-reactjs",
+  "pipelineDirectory": "github-action-reactjs",
+  "workspaceDirectory": "github-action-reactjs\\github-action-reactjs",
+  "repositories": {
+    "anichu/github-action-reactjs": {
+      "repositoryPath": "github-action-reactjs\\github-action-reactjs",
+      "lastRunOn": "08/03/2022 11:32:25 +06:00"
+    }
+  },
+  "lastRunOn": "08/03/2022 11:32:25 +06:00"
+}

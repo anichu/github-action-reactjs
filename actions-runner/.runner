@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ANIS",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/vU2uhXeXbLjX6XbuuY7jKikBqRN0qfuvE1J8jnL1vqTCwtGLgi",
+  "gitHubUrl": "https://github.com/anichu/github-action-reactjs",
+  "workFolder": "_work"
+}

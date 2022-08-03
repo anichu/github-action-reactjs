@@ -1,0 +1,190 @@
+[2022-08-03 05:29:15Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO HostContext] Well known config file 'Credentials': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO HostContext] Well known config file 'Runner': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.runner'
+[2022-08-03 05:29:15Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2022-08-03 05:29:15Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22000.
+[2022-08-03 05:29:15Z INFO Listener] Version: 2.294.0
+[2022-08-03 05:29:15Z INFO Listener] Commit: 709bd6113d2fca3a89a0fef11913ce4efd7b8cc5
+[2022-08-03 05:29:15Z INFO Listener] Culture: en-US
+[2022-08-03 05:29:15Z INFO Listener] UI Culture: en-GB
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO Listener] Validating directory permissions for: 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO CommandLineParser] Parse
+[2022-08-03 05:29:15Z INFO CommandLineParser] Parsing 5 args
+[2022-08-03 05:29:15Z INFO CommandLineParser] parsing argument
+[2022-08-03 05:29:15Z INFO CommandLineParser] HasArgs: False
+[2022-08-03 05:29:15Z INFO CommandLineParser] Adding Command: configure
+[2022-08-03 05:29:15Z INFO CommandLineParser] parsing argument
+[2022-08-03 05:29:15Z INFO CommandLineParser] HasArgs: True
+[2022-08-03 05:29:15Z INFO CommandLineParser] arg: url
+[2022-08-03 05:29:15Z INFO CommandLineParser] parsing argument
+[2022-08-03 05:29:15Z INFO CommandLineParser] HasArgs: True
+[2022-08-03 05:29:15Z INFO CommandLineParser] Adding option 'url': 'https://github.com/anichu/github-action-reactjs'
+[2022-08-03 05:29:15Z INFO CommandLineParser] parsing argument
+[2022-08-03 05:29:15Z INFO CommandLineParser] HasArgs: True
+[2022-08-03 05:29:15Z INFO CommandLineParser] arg: token
+[2022-08-03 05:29:15Z INFO CommandLineParser] parsing argument
+[2022-08-03 05:29:15Z INFO CommandLineParser] HasArgs: True
+[2022-08-03 05:29:15Z INFO CommandLineParser] Adding option 'token': '***'
+[2022-08-03 05:29:15Z INFO Listener] Arguments parsed
+[2022-08-03 05:29:15Z INFO Runner] ExecuteCommand
+[2022-08-03 05:29:15Z INFO ConfigurationStore] currentAssemblyLocation: E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin\Runner.Listener.dll
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO ConfigurationStore] binPath: E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO ConfigurationStore] RootFolder: E:\MERN-PROJECT\github-action-reactjs\actions-runner
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO HostContext] Well known config file 'Runner': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.runner'
+[2022-08-03 05:29:15Z INFO ConfigurationStore] ConfigFilePath: E:\MERN-PROJECT\github-action-reactjs\actions-runner\.runner
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO HostContext] Well known config file 'Credentials': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials'
+[2022-08-03 05:29:15Z INFO ConfigurationStore] CredFilePath: E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO HostContext] Well known config file 'MigratedCredentials': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_migrated'
+[2022-08-03 05:29:15Z INFO ConfigurationStore] MigratedCredFilePath: E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_migrated
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:15Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:15Z INFO HostContext] Well known config file 'Service': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.service'
+[2022-08-03 05:29:15Z INFO ConfigurationStore] ServiceConfigFilePath: E:\MERN-PROJECT\github-action-reactjs\actions-runner\.service
+[2022-08-03 05:29:15Z INFO CommandSettings] Flag 'help': 'False'
+[2022-08-03 05:29:15Z INFO CommandSettings] Flag 'version': 'False'
+[2022-08-03 05:29:15Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-08-03 05:29:15Z INFO CommandSettings] Flag 'check': 'False'
+[2022-08-03 05:29:15Z INFO CommandSettings] Command 'configure': 'True'
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE: |                       
+[2022-08-03 05:29:16Z INFO Terminal] WRITE: Self-hosted runner registration
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE:                         |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-08-03 05:29:16Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-08-03 05:29:16Z INFO ConfigurationManager] ConfigureAsync
+[2022-08-03 05:29:16Z INFO ConfigurationStore] IsConfigured()
+[2022-08-03 05:29:16Z INFO ConfigurationStore] IsConfigured: False
+[2022-08-03 05:29:16Z INFO ConfigurationManager] Is configured: False
+[2022-08-03 05:29:16Z INFO CommandSettings] Arg 'url': 'https://github.com/anichu/github-action-reactjs'
+[2022-08-03 05:29:16Z INFO CommandSettings] Remove url from Arg dictionary.
+[2022-08-03 05:29:16Z INFO CommandSettings] Arg 'token': '***'
+[2022-08-03 05:29:16Z INFO CommandSettings] Remove token from Arg dictionary.
+[2022-08-03 05:29:18Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2022-08-03 05:29:18Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2022-08-03 05:29:18Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-08-03 05:29:19Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-03 05:29:19Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-03 05:29:19Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-03 05:29:19Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-03 05:29:19Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-03 05:29:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-03 05:29:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-03 05:29:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-03 05:29:21Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:29:21Z INFO ConfigurationManager] Test Connection complete.
+[2022-08-03 05:29:21Z INFO HostContext] Well known directory 'Bin': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\bin'
+[2022-08-03 05:29:21Z INFO HostContext] Well known directory 'Root': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner'
+[2022-08-03 05:29:21Z INFO HostContext] Well known config file 'RSACredentials': 'E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_rsaparams'
+[2022-08-03 05:29:21Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2022-08-03 05:29:21Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_rsaparams
+[2022-08-03 05:29:21Z INFO CommandSettings] Arg 'runnergroup': ''
+[2022-08-03 05:29:21Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-08-03 05:29:21Z INFO PromptManager] ReadValue
+[2022-08-03 05:29:21Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2022-08-03 05:29:21Z INFO Terminal] WRITE: [press Enter for Default] 
+[2022-08-03 05:29:21Z INFO Terminal] READ LINE
+[2022-08-03 05:29:26Z INFO Terminal] Read value: ''
+[2022-08-03 05:29:26Z INFO PromptManager] Falling back to the default: 'Default'
+[2022-08-03 05:29:26Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:29:26Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2022-08-03 05:29:26Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-08-03 05:29:26Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-08-03 05:29:26Z INFO CommandSettings] Arg 'name': ''
+[2022-08-03 05:29:26Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-08-03 05:29:26Z INFO PromptManager] ReadValue
+[2022-08-03 05:29:26Z INFO Terminal] WRITE: Enter the name of runner: 
+[2022-08-03 05:29:26Z INFO Terminal] WRITE: [press Enter for ANIS] 
+[2022-08-03 05:29:26Z INFO Terminal] READ LINE
+[2022-08-03 05:29:29Z INFO Terminal] Read value: ''
+[2022-08-03 05:29:29Z INFO PromptManager] Falling back to the default: 'ANIS'
+[2022-08-03 05:29:29Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:29:29Z INFO CommandSettings] Arg 'labels': ''
+[2022-08-03 05:29:29Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-08-03 05:29:29Z INFO PromptManager] ReadValue
+[2022-08-03 05:29:29Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2022-08-03 05:29:29Z INFO Terminal] WRITE: [press Enter to skip] 
+[2022-08-03 05:29:29Z INFO Terminal] READ LINE
+[2022-08-03 05:30:35Z INFO Terminal] Read value: ''
+[2022-08-03 05:30:35Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:30:36Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-08-03 05:30:37Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-08-03 05:30:37Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-08-03 05:30:37Z INFO ConfigurationStore] Saving OAuth credential @ E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials
+[2022-08-03 05:30:37Z INFO ConfigurationStore] Credentials Saved.
+[2022-08-03 05:30:37Z INFO ConfigurationStore] HasCredentials()
+[2022-08-03 05:30:37Z INFO ConfigurationStore] stored True
+[2022-08-03 05:30:37Z INFO CredentialManager] GetCredentialProvider
+[2022-08-03 05:30:37Z INFO CredentialManager] Creating type OAuth
+[2022-08-03 05:30:37Z INFO CredentialManager] Creating credential type: OAuth
+[2022-08-03 05:30:37Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_rsaparams
+[2022-08-03 05:30:37Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-08-03 05:30:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-03 05:30:37Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-03 05:30:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-03 05:30:37Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-03 05:30:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-03 05:30:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-03 05:30:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-03 05:30:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-03 05:30:38Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: f687d485-1c9b-4ace-8ba3-2689a95fb703
+ActivityId: f56f225b-adfe-4fa6-bb48-12da95416d9f
+X-TFS-Session: efc6dbe3-58f6-449c-87cf-d689839309f4
+X-VSS-E2EID: ce7f2dac-b1c2-4609-b16e-764845722291
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 7F8BE0B83C0F4311A80FDC7869037234 Ref B: SIN30EDGE0710 Ref C: 2022-08-03T05:30:38Z
+Date: Wed, 03 Aug 2022 05:30:37 GMT
+
+[2022-08-03 05:30:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_rsaparams
+[2022-08-03 05:30:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file E:\MERN-PROJECT\github-action-reactjs\actions-runner\.credentials_rsaparams
+[2022-08-03 05:30:39Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-08-03 05:30:40Z INFO CommandSettings] Arg 'work': ''
+[2022-08-03 05:30:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-08-03 05:30:40Z INFO PromptManager] ReadValue
+[2022-08-03 05:30:40Z INFO Terminal] WRITE: Enter name of work folder: 
+[2022-08-03 05:30:40Z INFO Terminal] WRITE: [press Enter for _work] 
+[2022-08-03 05:30:40Z INFO Terminal] READ LINE
+[2022-08-03 05:30:40Z INFO Terminal] Read value: ''
+[2022-08-03 05:30:40Z INFO PromptManager] Falling back to the default: '_work'
+[2022-08-03 05:30:40Z INFO ConfigurationStore] Saving runner settings.
+[2022-08-03 05:30:40Z INFO ConfigurationStore] Settings Saved.
+[2022-08-03 05:30:40Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:30:40Z INFO Terminal] WRITE LINE: 
+[2022-08-03 05:30:40Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2022-08-03 05:30:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-08-03 05:30:40Z INFO PromptManager] ReadValue
+[2022-08-03 05:30:40Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2022-08-03 05:30:40Z INFO Terminal] WRITE: [press Enter for N] 
+[2022-08-03 05:30:40Z INFO Terminal] READ LINE
+[2022-08-03 05:31:16Z INFO Terminal] Read value: ''
+[2022-08-03 05:31:16Z INFO PromptManager] Falling back to the default: 'N'
+[2022-08-03 05:31:16Z INFO Listener] Runner execution has finished with return code 0
